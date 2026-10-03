@@ -1,0 +1,4 @@
+1.creating virtual env
+2.getting api key
+3. requirement file setup
+4. chatmodel -> chat.py
